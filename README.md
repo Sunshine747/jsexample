@@ -1,0 +1,2 @@
+# jsexample
+Repository for CodeceptJS
